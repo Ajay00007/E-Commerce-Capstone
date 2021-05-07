@@ -1,0 +1,17 @@
+.dashboardMenuButton {
+  display: none !important;
+}
+
+@media screen and (max-width: 768px) {
+  .dashboardMenuButton {
+    display: initial !important;
+  }
+
+  .dashboardMenu {
+    margin-left: -15rem;
+  }
+
+  .toggledMenu {
+    margin-left: 0;
+  }
+}

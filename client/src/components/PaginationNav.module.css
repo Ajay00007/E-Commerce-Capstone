@@ -1,0 +1,4 @@
+.paginationFlex {
+  justify-content: center;
+  flex-flow: row wrap;
+}
